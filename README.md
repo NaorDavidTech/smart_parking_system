@@ -48,3 +48,8 @@ The app allows the user to:
 - LCD feedback for system status
 - Bluetooth communication with Android app
 - Exit authorization via in-app payment
+
+
+## 👨‍🔧 Authors
+
+- Naor David  
