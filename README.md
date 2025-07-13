@@ -38,6 +38,11 @@ The app allows the user to:
 
 
 
+## 🧰 Tools Used
+
+- Keil µVision (C programming)
+- MIT App Inventor (Android app)
+- Nuvoton NUC140 development board
 
 
 ## 🧠 Main Features
@@ -50,6 +55,6 @@ The app allows the user to:
 - Exit authorization via in-app payment
 
 
-## 👨‍🔧 Authors
+## 👨‍🔧 Author
 
 - Naor David  
