@@ -12,9 +12,13 @@ Smart parking system using Nuvoton NUC140 microcontroller with RFID, ultrasonic 
 - The gate will only open if a **payment confirmation** is received via the **Android app**.
 
 
+
+
 ## 🎥 Demo Video
 Watch a live demonstration of the Smart Parking System in action:  
 👉 [Smart Parking System Demo on YouTube](https://youtu.be/IOieSrHeTKE)
+
+
 
 
 ## 📱 Android App
@@ -24,6 +28,8 @@ The app allows the user to:
 - View parking status .
 - Communicate with the system via **Bluetooth (HC-05)**.
 📦 App source file  is included.
+
+
 
 
 
